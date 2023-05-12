@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Social-media Clone and real-time chat application (SKILL_UP)**
 
-- 🌱 I’m currently learning **Python, Java, HTML, CSS, JavaScript, AWS Cloud,MYSQL, MongoDB**
+- 🌱 I’m currently learning **Python, JavaScript, .NET, AWS Cloud,MYSQL, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DilipGitCodes](https://github.com/DilipGitCodes)
 
