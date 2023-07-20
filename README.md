@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilipgitcodes&label=Profile%20views&color=0e75b6&style=flat" alt="dilipgitcodes" /> </p>
 
-- 🔭 I’m currently working on **Social-media Clone and real-time chat application (SKILL_UP)**
+- 🔭 I have worked on **Social-media Clone and real-time chat application (SKILL_UP)**
 
-- 🌱 I’m currently learning **Python, JavaScript, .NET, AWS Cloud,MYSQL, MongoDB**
+- 🌱 I know **Python, JavaScript, AWS Cloud,MYSQL, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DilipGitCodes](https://github.com/DilipGitCodes)
 
